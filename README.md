@@ -1,6 +1,3 @@
-# Serverless-Disaster-Recovery-Automation-Using-CloudFunctions
-
-
 # 🌐 Serverless Disaster Recovery Automation Using Cloud Functions
 
 ## 📌 Overview
